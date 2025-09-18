@@ -39,11 +39,21 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 | [**net-triage**](https://github.com/TechPro94/net-triage) | Diagnoses and auto-fixes network stack issues (DNS, Winsock/TCP, DHCP) with full pre/post logs. |
 | [**printer-heal**](https://github.com/TechPro94/printer-heal) | Clears print spooler/queues, re-adds printers, and sends test prints to cut downtime. |
 | [**system-scan**](https://github.com/TechPro94/system-scan) | Logs system health, security status, pending updates, and restart requirements. |
-| [**quick-sh-commands**](https://github.com/TechPro94/quick-sh-commands) | Curated list of macOS/Linux terminal commands for troubleshooting and administration. |
-| [**quick-cmd-commands**](https://github.com/TechPro94/quick-cmd-commands) | Quick-reference of core Windows CMD commands for system and network troubleshooting. |
+| [**sh-commands**](https://github.com/TechPro94/quick-sh-commands) | Curated list of macOS/Linux terminal commands for troubleshooting and administration. |
+| [**cmd-commands**](https://github.com/TechPro94/quick-cmd-commands) | Quick-reference of core Windows CMD commands for system and network troubleshooting. |
 
 ---
 
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nigeldumont)
+
+---
+
+<sub>
+<b>⚙️ About This Portfolio</b><br><br>
+This profile and its projects were fully designed, structured, and documented by <b>TechPro94</b>.<br>
+Built with 💻 <b>Markdown</b>, 🧠 <b>Git/GitHub</b>, and crafted to showcase cross-platform IT support, networking, and automation experience.<br><br>
+⚠️ All scripts are sanitized demo tools — no real credentials or company data are included.
+</sub>
+
