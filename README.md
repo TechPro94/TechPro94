@@ -8,11 +8,11 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 
 ## 🔧 Core Skills  
 
-- **IT Support & Service Desk** – Advanced troubleshooting for Windows, macOS, printers, VoIP phones, and retail/corporate POS hardware. Skilled in ticketing, escalations, and knowledge base documentation.  
+- **IT Support & Service Desk** – Advanced troubleshooting for Windows, macOS, printers, VoIP phones, and retail/corporate hardware. Skilled in ticketing, escalations, and knowledge base documentation.  
 - **Networking & Infrastructure** – Hands-on with Cisco, Fortinet, and Meraki firewalls, VPNs, VLANs, WAN failover, switch port activations, and enterprise Wi-Fi deployments.  
-- **Systems Administration** – Active Directory, Azure AD, and Google Workspace user lifecycle management, permissions, SSO/MFA, group policies, and SaaS integrations.  
+- **Systems Administration** – Active Directory, Azure AD, and Google Workspace user lifecycle management, permissions, Single Sign On-SSO, 2FA-MFA, group policy(GPO), and SaaS integrations.
 - **Automation & Scripting** – PowerShell and Python for user provisioning, HRIS→IT workflows, API integrations, and infrastructure monitoring (SolarWinds, Meraki API, smart plug automation).  
-- **Cloud & SaaS Platforms** – Microsoft 365, ServiceNow, Dutchie, Confluence, Jira, and AWS basics; experienced with license management and SaaS security configurations.  
+- **Cloud & SaaS Platforms** – Microsoft 365, ServiceNow, Confluence, Jira, Atlassian, and AWS basics; experienced with license management and SaaS security configurations.  
 - **Security & Compliance** – CompTIA Security+ (SY0-701) certified; proactive incident response, firewall rule management, phishing mitigation, and alignment with SOC/NIST/CIS frameworks.  
 - **Monitoring & Incident Response** – SolarWinds, Meraki Dashboard, and Fortinet logging to detect outages, bandwidth issues, and security events; experienced in vendor coordination and rapid response.  
 - **Collaboration & Documentation** – Clear communicator; create SOPs, KB articles, and troubleshooting guides that bridge IT and non-technical staff.  
@@ -40,6 +40,5 @@ Watches a target IP and power-cycles network devices via smart plug API if unrea
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🌐 [Portfolio Website](https://yourname.com)  
-- ✉️ Email: yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nigeldumont)
+- ✉️ Email: dumontnigel@gmail.com
