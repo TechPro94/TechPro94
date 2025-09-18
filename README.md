@@ -27,7 +27,7 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 ## 📑 Workflow + Major Incident Response
 - [IT Networking Workflows](./assets/ND_IT_Networking_Workflows.pdf)  
 - [UPS Failure](./assets/Rise_West_Springfield_Internet_Outage.pdf)
-- [Crowdstrike Blue Screen Of Death](./assets/CrowdStrike_Outage_Incident_Report_July_2024.pdf)
+- [Crowdstrike BSOD](./assets/CrowdStrike_Outage_Incident_Report_July_2024.pdf)
 - [CloudFlare Outage](./assets/cloudflare_outage_report.pdf)
 
 ---
