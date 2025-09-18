@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nigel Dumont  
 
-💻 **Senior IT Service Desk Analyst | IT Networking & Automation | Security+ Certified**  
+💻 **Senior IT Service Desk Analyst | IT Networking, Security, Support Proffessional | Security+ Certified**  
 
 I design, support, and automate IT infrastructure across **retail sites and corporate offices**. My focus is on **network reliability, identity management, and security-first IT operations**.  
 
@@ -32,13 +32,15 @@ Watches a target IP and power-cycles network devices via smart plug API if unrea
 
 ---
 
-## 📑 Credentials  
-- [IT Networking Workflows (PDF)](./assets/ND_IT_Networking_Workflows.pdf)  
-- [Resume (PDF)](./assets/Nigel-Dumont-Resume-2025.pdf)  
-- [COMPTIA S+](./assets/Security+ Cert Transcript .png)
+## 📑 Workflow + Major Incident Response
+- [IT Networking Workflows](./assets/ND_IT_Networking_Workflows.pdf)  
+- [UPS Failure](./assets/Rise_West_Springfield_Internet_Outage.pdf)
+- [Crowdstrike Blue Screen Of Death](./assets/CrowdStrike_Outage_Incident_Report_July_2024.pdf)
+- [CloudFlare Outage](./assets/cloudflare_outage_report.pdf)
 
 ---
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nigeldumont)
 - ✉️ Email: dumontnigel@gmail.com
+- ☎️ Phone: 312-339-4626
