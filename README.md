@@ -20,19 +20,10 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 
 ---
 
-## 📝 Scripts for Troubleshooting [Windows + MacOS]
+## 📝 Resume + Certifications 
 
-📂 [Network Stack Triage + Auto-Fix (collect → attempt fix → collect again)](assets/net-triage.ps1) - Windows 
-
-📂 [Network Stack Triage + Auto-Fix (collect → attempt fix → collect again)](assets/net-triage.sh) - MacOS 
-
-📂 [Unable to Print Fix](assets/printer-heal.ps1) - Windows
-
-📂 [Unable to Print Fix](assets/printer-heal.sh) - MacOS
-
-📂 [System Scan/Update Check](./assets/system-scan.ps1) - Windows
-
-📂 [System Scan/Update Check](./assets/system-scan.sh) - MacOS
+- [My CV](./assets/Nigel-Dumont-Resume-2025.pdf)
+- [CompTIA Security+](./assets/Security+Cert-Transcript.png)
 
 ---
 
@@ -46,5 +37,3 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nigeldumont)
-- ✉️ Email: dumontnigel@gmail.com
-- ☎️ Phone: 312-339-4626
