@@ -32,10 +32,10 @@ Watches a target IP and power-cycles network devices via smart plug API if unrea
 
 ---
 
-## 📑 Documentation Samples  
-- [IT Networking Workflows (PDF)](https://your-portfolio-link.com/IT_Networking_Workflows.pdf)  
-- [Resume (PDF)](https://your-portfolio-link.com/resume.pdf)  
-- [Knowledge Base Guides](https://your-portfolio-link.com/kb)  
+## 📑 Credentials  
+- [IT Networking Workflows (PDF)](./assets/ND_IT_Networking_Workflows.pdf)  
+- [Resume (PDF)](./assets/Nigel-Dumont-Resume-2025.pdf)  
+- [COMPTIA S+](./assets/Security+ Cert Transcript .png)
 
 ---
 
