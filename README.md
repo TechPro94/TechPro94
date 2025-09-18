@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nigel Dumont  
 
-💻 **Senior IT Service Desk Analyst | IT Networking, Security, Support Proffessional | Security+ Certified**  
+💻 **Senior IT Service Desk Analyst | Cisco CCENT + Security+ Certified**  
 
 I design, support, and automate IT infrastructure across **retail sites and corporate offices**. My focus is on **network reliability, identity management, and security-first IT operations**.  
 
@@ -20,15 +20,19 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 
 ---
 
-## 🚀 Featured Projects  
-📂 [AD User Provisioning & Promotion Sync](./ad-user-provisioning)  
-Automates onboarding & promotions from HRIS → Active Directory.  
+## 📝 Scripts for Troubleshooting [Windows + MacOS]
 
-📂 [Meraki Device Monitor](./meraki-device-monitor)  
-Pulls device status from Cisco Meraki API, exports CSV, flags offline devices.  
+📂 [Network Stack Triage + Auto-Fix (collect → attempt fix → collect again)](assets/net-triage.ps1) - Windows 
 
-📂 [Smart Plug Rebooter](./smart-plug-rebooter)  
-Watches a target IP and power-cycles network devices via smart plug API if unreachable.  
+📂 [Network Stack Triage + Auto-Fix (collect → attempt fix → collect again)](assets/net-triage.sh) - MacOS 
+
+📂 [Unable to Print Fix](assets/printer-heal.ps1) - Windows
+
+📂 [Unable to Print Fix](assets/printer-heal.sh) - MacOS
+
+📂 [System Scan/Update Check](./assets/system-scan.ps1) - Windows
+
+📂 [System Scan/Update Check](./assets/system-scan.sh) - MacOS
 
 ---
 
