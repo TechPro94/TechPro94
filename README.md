@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Nigel Dumont  
-
-💻 **Senior IT Service Desk Analyst | Cisco CCENT + Security+ Certified**  
+# 👋 Hi, I’m Nigel Dumont | CompTIA, Cisco, and Google Certified 
 
 I design, support, and automate IT infrastructure across **retail sites and corporate offices**. My focus is on **network reliability, identity management, and security-first IT operations**.  
 
