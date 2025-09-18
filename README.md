@@ -15,7 +15,6 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 - **Monitoring & Incident Response** – SolarWinds, Meraki Dashboard, and Fortinet logging to detect outages, bandwidth issues, and security events; experienced in vendor coordination and rapid response.  
 - **Collaboration & Documentation** – Clear communicator; create SOPs, KB articles, and troubleshooting guides that bridge IT and non-technical staff.  
 
-
 ---
 
 ## 📝 Resume + Certifications 
@@ -33,5 +32,18 @@ I design, support, and automate IT infrastructure across **retail sites and corp
 
 ---
 
+## 🧩 Featured Projects
+
+| Repository | Description |
+|------------|-------------|
+| [**net-triage**](https://github.com/TechPro94/net-triage) | Diagnoses and auto-fixes network stack issues (DNS, Winsock/TCP, DHCP) with full pre/post logs. |
+| [**printer-heal**](https://github.com/TechPro94/printer-heal) | Clears print spooler/queues, re-adds printers, and sends test prints to cut downtime. |
+| [**system-scan**](https://github.com/TechPro94/system-scan) | Logs system health, security status, pending updates, and restart requirements. |
+| [**quick-sh-commands**](https://github.com/TechPro94/quick-sh-commands) | Curated list of macOS/Linux terminal commands for troubleshooting and administration. |
+| [**quick-cmd-commands**](https://github.com/TechPro94/quick-cmd-commands) | Quick-reference of core Windows CMD commands for system and network troubleshooting. |
+
+---
+
 ## 📫 Connect With Me  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/nigeldumont)
