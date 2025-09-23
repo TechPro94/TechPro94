@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Nigel Dumont | CompTIA, Cisco, and Google Certified 
+# 👋 Hi, I’m Nigel!
 
-I design, support, and automate IT infrastructure across **retail sites and corporate offices**. My focus is on **network reliability, identity management, and security-first IT operations**.  
+I design, support, and automate IT infrastructure!
 
 ---
 
