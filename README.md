@@ -40,6 +40,7 @@ I design, support, and automate IT infrastructure!
 | [**system-scan**](https://github.com/TechPro94/system-scan) | Logs system health, security status, pending updates, and restart requirements. |
 | [**sh-commands**](https://github.com/TechPro94/quick-sh-commands) | Curated list of macOS/Linux terminal commands for troubleshooting and administration. |
 | [**cmd-commands**](https://github.com/TechPro94/quick-cmd-commands) | Quick-reference of core Windows CMD commands for system and network troubleshooting. |
+| [**powershell-toolkit**](https://github.com/TechPro94/PowerShell-Support-Toolkit) | Curated PowerShell commands for IT support: service restarts, system health, networking, and troubleshooting. |
 
 ---
 
