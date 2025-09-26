@@ -1,6 +1,10 @@
-# 👋 Hi, I’m Nigel!
+# 👋 Hi, I’m Nigel! 
 
-I design, support, and automate IT infrastructure!
+I design, support, and automate IT infrastructure! 
+
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME.YOUR_REPO/visits)
+
+
 
 ---
 
